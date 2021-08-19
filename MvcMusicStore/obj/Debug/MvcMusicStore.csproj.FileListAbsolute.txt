@@ -101,7 +101,6 @@ C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\bin\Micro
 C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.AssemblyReference.cache
 C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.CoreCompileInputs.cache
 C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.CopyComplete
 C:\Users\Maximilian\OneDrive\Visual Studio\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
